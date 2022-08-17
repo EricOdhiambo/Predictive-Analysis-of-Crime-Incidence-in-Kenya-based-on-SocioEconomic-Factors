@@ -1,0 +1,239 @@
+,Year,Type of Crime,Number of Crimes Reported,Gross Domestic Product (GDP)
+0,2005,Homicide,"2,313",5.9
+1,2005,Offences against morality,"3,153",5.9
+2,2005,Other offences against persons,"17,304",5.9
+3,2005,Robbery,"6,936",5.9
+4,2005,Breakings,"8,454",5.9
+5,2005,Theft of stock,"2,219",5.9
+6,2005,Stealing,"12,589",5.9
+7,2005,Theft by servant,"2,874",5.9
+8,2005,Vehicles and other thefts,"1,718",5.9
+9,2005,Dangerous drugs,"6,356",5.9
+10,2005,Traffic offences,38,5.9
+11,2005,Criminal damage,"3,236",5.9
+12,2005,Economic crimes,"1,390",5.9
+13,2005,Corruption,107,5.9
+14,2005,Offences involving police officers,29,5.9
+15,2005,Offences involving tourists,32,5.9
+16,2005,Other penal code offences,"6,652",5.9
+17,2006,Homicide,"2,090",6.3
+18,2006,Offences against morality,"3,525",6.3
+19,2006,Other offences against persons,"18,723",6.3
+20,2006,Robbery,"5,234",6.3
+21,2006,Breakings,"7,420",6.3
+22,2006,Theft of stock,"2,209",6.3
+23,2006,Stealing,"10,874",6.3
+24,2006,Theft by servant,"2,700",6.3
+25,2006,Vehicles and other thefts,"1,660",6.3
+26,2006,Dangerous drugs,"5,821",6.3
+27,2006,Traffic offences,62,6.3
+28,2006,Criminal damage,"3,518",6.3
+29,2006,Economic crimes,"1,873",6.3
+30,2006,Corruption,252,6.3
+31,2006,Offences involving police officers,76,6.3
+32,2006,Offences involving tourists,84,6.3
+33,2006,Other penal code offences,"6,104",6.3
+34,2007,Homicide,"1,912",7
+35,2007,Offences against morality,"3,673",7
+36,2007,Other offences against persons,"17,831",7
+37,2007,Robbery,"3,492",7
+38,2007,Breakings,"6,337",7
+39,2007,Theft of stock,"1,568",7
+40,2007,Stealing,"10,749",7
+41,2007,Theft by servant,"2,169",7
+42,2007,Vehicles and other thefts,"1,221",7
+43,2007,Dangerous drugs,"5,401",7
+44,2007,Traffic offences,46,7
+45,2007,Criminal damage,"2,770",7
+46,2007,Economic crimes,"1,908",7
+47,2007,Corruption,177,7
+48,2007,Offences involving police officers,32,7
+49,2007,Offences involving tourists,10,7
+50,2007,Other penal code offences,"3,732",7
+51,2008,Homicide,"2,037",1.5
+52,2008,Offences against morality,"3,116",1.5
+53,2008,Other offences against persons,"16,496",1.5
+54,2008,Robbery,"3,401",1.5
+55,2008,Breakings,"6,626",1.5
+56,2008,Theft of stock,"2,269",1.5
+57,2008,Stealing,"11,435",1.5
+58,2008,Theft by servant,"2,387",1.5
+59,2008,Vehicles and other thefts,"1,387",1.5
+60,2008,Dangerous drugs,"4,407",1.5
+61,2008,Traffic offences,120,1.5
+62,2008,Criminal damage,"3,760",1.5
+63,2008,Economic crimes,"1,898",1.5
+64,2008,Corruption,133,1.5
+65,2008,Offences involving police officers,33,1.5
+66,2008,Offences involving tourists,6,1.5
+67,2008,Other penal code offences,"3,994",1.5
+68,2009,Homicide,"2,214",2.7
+69,2009,Offences against morality,"4,068",2.7
+70,2009,Other offences against persons,"20,539",2.7
+71,2009,Robbery,"2,939",2.7
+72,2009,Breakings,"7,053",2.7
+73,2009,Theft of stock,"2,876",2.7
+74,2009,Stealing,"11,972",2.7
+75,2009,Theft by servant,"2,732",2.7
+76,2009,Vehicles and other thefts,"1,439",2.7
+77,2009,Dangerous drugs,"5,541",2.7
+78,2009,Traffic offences,59,2.7
+79,2009,Criminal damage,"3,417",2.7
+80,2009,Economic crimes,"2,324",2.7
+81,2009,Corruption,158,2.7
+82,2009,Offences involving police officers,56,2.7
+83,2009,Offences involving tourists,5,2.7
+84,2009,Other penal code offences,"4,864",2.7
+85,2010,Homicide,"2,239",5.8
+86,2010,Offences against morality,"4,817",5.8
+87,2010,Other offences against persons,"20,012",5.8
+88,2010,Robbery,"2,843",5.8
+89,2010,Breakings,"6,453",5.8
+90,2010,Theft of stock,"2,244",5.8
+91,2010,Stealing,"11,986",5.8
+92,2010,Theft by servant,"2,591",5.8
+93,2010,Vehicles and other thefts,"1,365",5.8
+94,2010,Dangerous drugs,"5,081",5.8
+95,2010,Traffic offences,103,5.8
+96,2010,Criminal damage,"3,327",5.8
+97,2010,Economic crimes,"2,662",5.8
+98,2010,Corruption,62,5.8
+99,2010,Offences involving police officers,37,5.8
+100,2010,Offences involving tourists,1,5.8
+101,2010,Other penal code offences,"4,956",5.8
+102,2011,Homicide,"2,641",4.4
+103,2011,Offences against morality,"4,703",4.4
+104,2011,Other offences against persons,"20,144",4.4
+105,2011,Robbery,"3,262",4.4
+106,2011,Breakings,"7,325",4.4
+107,2011,Theft of stock,"2,269",4.4
+108,2011,Stealing,"13,797",4.4
+109,2011,Theft by servant,"2,889",4.4
+110,2011,Vehicles and other thefts,"1,768",4.4
+111,2011,Dangerous drugs,"4,649",4.4
+112,2011,Traffic offences,100,4.4
+113,2011,Criminal damage,"3,345",4.4
+114,2011,Economic crimes,"3,036",4.4
+115,2011,Corruption,52,4.4
+116,2011,Offences involving police officers,27,4.4
+117,2011,Offences involving tourists,0,4.4
+118,2011,Other penal code offences,"5,726",4.4
+119,2012,Homicide,2761,4.6
+120,2012,Offences against morality,4806,4.6
+121,2012,Other offences against persons,20698,4.6
+122,2012,Robbery,"3,262",4.6
+123,2012,Breakings,"7,578",4.6
+124,2012,Theft of stock,"2,377",4.6
+125,2012,Stealing,"14,111",4.6
+126,2012,Theft by servant,"2,984",4.6
+127,2012,Vehicles and other thefts,"1,663",4.6
+128,2012,Dangerous drugs,4181,4.6
+129,2012,Traffic offences,66,4.6
+130,2012,Criminal damage,3769,4.6
+131,2012,Economic crimes,3369,4.6
+132,2012,Corruption,49,4.6
+133,2012,Offences involving police officers,69,4.6
+134,2012,Offences involving tourists,0,4.6
+135,2012,Other penal code offences,6109,4.6
+136,2013,Homicide,"2,878",5.9
+137,2013,Offences against morality,"4,779",5.9
+138,2013,Other offences against persons,"19,344",5.9
+139,2013,Robbery,"3,551",5.9
+140,2013,Breakings,"6,397",5.9
+141,2013,Theft of stock,"1,965",5.9
+142,2013,Stealing,"11,455",5.9
+143,2013,Theft by servant,"2,702",5.9
+144,2013,Vehicles and other thefts,"1,631",5.9
+145,2013,Dangerous drugs,"4,316",5.9
+146,2013,Traffic offences,45,5.9
+147,2013,Criminal damage,"3,603",5.9
+148,2013,Economic crimes,"2,750",5.9
+149,2013,Corruption,57,5.9
+150,2013,Offences involving police officers,95,5.9
+151,2013,Offences involving tourists,14,5.9
+152,2013,Other penal code offences,"6,250",5.9
+153,2014,Homicide,"2,649",5.4
+154,2014,Offences against morality,"5,184",5.4
+155,2014,Other offences against persons,"19,911",5.4
+156,2014,Robbery,"3,011",5.4
+157,2014,Breakings,"5,656",5.4
+158,2014,Theft of stock,"1,848",5.4
+159,2014,Stealing,"10,042",5.4
+160,2014,Theft by servant,"2,279",5.4
+161,2014,Vehicles and other thefts,"1,239",5.4
+162,2014,Dangerous drugs,"4,850",5.4
+163,2014,Traffic offences,100,5.4
+164,2014,Criminal damage,"3,709",5.4
+165,2014,Economic crimes,"3,038",5.4
+166,2014,Corruption,138,5.4
+167,2014,Offences involving police officers,53,5.4
+168,2014,Offences involving tourists,21,5.4
+169,2014,Other penal code offences,"5,648",5.4
+170,2015,Homicide,"2,648",5.7
+171,2015,Offences against morality,"6,164",5.7
+172,2015,Other offences against persons,"21,174",5.7
+173,2015,Robbery,"2,865",5.7
+174,2015,Breakings,"5,591",5.7
+175,2015,Theft of stock,"1,961",5.7
+176,2015,Stealing,"9,528",5.7
+177,2015,Theft by servant,"2,184",5.7
+178,2015,Vehicles and other thefts,"1,111",5.7
+179,2015,Dangerous drugs,"5,525",5.7
+180,2015,Traffic offences,120,5.7
+181,2015,Criminal damage,"3,983",5.7
+182,2015,Economic crimes,"3,244",5.7
+183,2015,Corruption,79,5.7
+184,2015,Offences involving police officers,71,5.7
+185,2015,Offences involving tourists,19,5.7
+186,2015,Other penal code offences,"6,223",5.7
+187,2016,Homicide,"2,751",5.9
+188,2016,Offences against morality,"6,228",5.9
+189,2016,Other offences against persons,"22,295",5.9
+190,2016,Robbery,"2,697",5.9
+191,2016,Breakings,"5,621",5.9
+192,2016,Theft of stock,"1,918",5.9
+193,2016,Stealing,"10,361",5.9
+194,2016,Theft by servant,"2,440",5.9
+195,2016,Vehicles and other thefts,"1,355",5.9
+196,2016,Dangerous drugs,"6,160",5.9
+197,2016,Traffic offences,139,5.9
+198,2016,Criminal damage,"4,307",5.9
+199,2016,Economic crimes,"3,503",5.9
+200,2016,Corruption,92,5.9
+201,2016,Offences involving police officers,57,5.9
+202,2016,Offences involving tourists,15,5.9
+203,2016,Other penal code offences,"7,047",5.9
+204,2017,Homicide,"2,774",4.8
+205,2017,Offences against morality,"5,492",4.8
+206,2017,Other offences against persons,"22,515",4.8
+207,2017,Robbery,"2,713",4.8
+208,2017,Breakings,"6,131",4.8
+209,2017,Theft of stock,"2,136",4.8
+210,2017,Stealing,"11,656",4.8
+211,2017,Theft by servant,"2,632",4.8
+212,2017,Vehicles and other thefts,"1,404",4.8
+213,2017,Dangerous drugs,"5,565",4.8
+214,2017,Traffic offences,69,4.8
+215,2017,Criminal damage,"4,262",4.8
+216,2017,Economic crimes,"3,695",4.8
+217,2017,Corruption,75,4.8
+218,2017,Offences involving police officers,86,4.8
+219,2017,Offences involving tourists,15,4.8
+220,2017,Other penal code offences,"6,772",4.8
+221,2018,Homicide,"2,856",6.3
+222,2018,Offences against morality,"7,233",6.3
+223,2018,Other offences against persons,"25,049",6.3
+224,2018,Robbery,"2,935",6.3
+225,2018,Breakings,"5,970",6.3
+226,2018,Theft of stock,"2,077",6.3
+227,2018,Stealing,"12,845",6.3
+228,2018,Theft by servant,"2,477",6.3
+229,2018,Vehicles and other thefts,"1,370",6.3
+230,2018,Dangerous drugs,"8,021",6.3
+231,2018,Traffic offences,213,6.3
+232,2018,Criminal damage,"4,783",6.3
+233,2018,Economic crimes,"4,100",6.3
+234,2018,Corruption,119,6.3
+235,2018,Offences involving police officers,174,6.3
+236,2018,Offences involving tourists,93,6.3
+237,2018,Other penal code offences,"7,953",6.3
