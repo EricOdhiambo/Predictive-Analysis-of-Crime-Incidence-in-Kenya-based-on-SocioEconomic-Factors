@@ -1,0 +1,2 @@
+# Predictive-Analysis-of-Crime-Incidence-in-Kenya-based-on-SocioEconomic-Factors
+The aim of this project is to predict the number of different types of crime that will happen in Kenya in the near future. Crime records (data) from the Yearly Statistical Abstracts have been used to train and test our Recurrent Neural Network model. alongside the LSTM (Long-Short Term Memory) Algorithm, best for time series data sets and predictions in this case. 
